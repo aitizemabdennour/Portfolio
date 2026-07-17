@@ -46,7 +46,7 @@ export const translations = {
     about: {
       tag: "01 — About",
       title: "About Me",
-      badge: "AI & Software",
+      badge: "AI & Systems",
       p1: "I am Abdennour AIT IZEM, a Master 2 Computer Systems student. Passionate about developing intelligent and robust solutions, I focus on creating practical applications including offline voice assistants, Android development, and machine learning systems adapted to local technical challenges.",
       p2: "I believe that the best software is born from the meeting of rigorous engineering and thoughtful user design. Whether it's system optimization, application development, or low-latency AI integration, I enjoy turning complex ideas into concrete and high-performance products.",
       basedInLabel: "Based in",
@@ -142,7 +142,7 @@ export const translations = {
     github: {
       tag: "06 — GitHub",
       title: "GitHub Activity",
-      bio: "AI & Software Engineering student. Building with Python, Kotlin, and AI.",
+      bio: "Master 2 Computer Systems Student. Designing intelligent agents and optimizing system performance with Python, Kotlin, and AI.",
       repos: "Repos",
       commits: "Commits",
       stars: "Stars",
@@ -219,7 +219,7 @@ export const translations = {
     about: {
       tag: "01 — À propos",
       title: "À propos de moi",
-      badge: "IA & Logiciel",
+      badge: "AI & Systèmes",
       p1: "Je suis Abdennour AIT IZEM, étudiant en Master 2 Systèmes Informatiques. Passionné par le développement de solutions intelligentes et robustes, je me concentre sur la création d'applications pratiques couvrant les assistants vocaux hors ligne, le développement mobile Android, et des systèmes d'apprentissage automatique adaptés aux défis techniques locaux.",
       p2: "Je crois que les meilleurs logiciels naissent de la rencontre entre une ingénierie rigoureuse et une conception utilisateur réfléchie. Qu'il s'agisse d'optimisation système, de développement d'applications ou d'intégration d'IA à faible latence, j'aime transformer des idées complexes en produits concrets et performants.",
       basedInLabel: "Basé en",
@@ -391,7 +391,7 @@ export const translations = {
     about: {
       tag: "01 — حول",
       title: "نبذة عني",
-      badge: "ذكاء اصطناعي وبرمجيات",
+      badge: "الذكاء & الأنظمة",
       p1: "أنا عبد النور آيت إيزم، طالب في السنة الثانية ماستر تخصص أنظمة معلوماتية. شغوف بتطوير حلول ذكية وقوية، وأركز على إنشاء تطبيقات عملية تشمل المساعدات الصوتية التي تعمل بدون إنترنت، وتطوير تطبيقات أندرويد، وأنظمة تعلم الآلة المكيفة مع التحديات التقنية المحلية.",
       p2: "أؤمن بأن أفضل البرمجيات تولد من مزيج بين الهندسة الصارمة وتصميم المستخدم المدروس. سواء كان ذلك يتعلق بتحسين الأنظمة، أو تطوير التطبيقات، أو دمج الذكاء الاصطناعي منخفض التأخير، فأنا أحب تحويل الأفكار المعقدة إلى منتجات ملموسة وعالية الأداء.",
       basedInLabel: "مقرّي في",
