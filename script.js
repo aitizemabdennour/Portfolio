@@ -240,7 +240,7 @@ initI18n();
  /* ---------- Download CV (Version simplifiée et fiable) ---------- */
 /* ---------- Download CV (Méthode directe) ---------- */
 /* ---------- Download CV (Forcer le téléchargement) ---------- */
-document.getElementById("downloadCv")?.addEventListener("click", (e) => {
+/*document.getElementById("downloadCv")?.addEventListener("click", (e) => {
   e.preventDefault();
   
   const link = document.createElement("a");
@@ -251,7 +251,7 @@ document.getElementById("downloadCv")?.addEventListener("click", (e) => {
   link.click();
   document.body.removeChild(link);
 });
-
+*/
   /* ---------- Contact form (uses i18n strings) ---------- */
   const form = document.getElementById("contactForm");
   const status = document.getElementById("contactStatus");

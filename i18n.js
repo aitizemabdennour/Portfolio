@@ -47,6 +47,13 @@ export function applyLanguage(code) {
   const metaDesc = document.querySelector('meta[name="description"]');
   if (metaDesc) metaDesc.setAttribute("content", dict.meta.description);
 
+    const downloadCvBtn = document.getElementById("downloadCv");
+    if (downloadCvBtn) {
+      const cvPath = resolve(lang.code, "hero.cvPath");
+      if (cvPath) {
+        downloadCvBtn.setAttribute("href", cvPath);
+      }
+    }
   document.querySelectorAll("[data-i18n]").forEach((el) => {
     const key = el.getAttribute("data-i18n");
     const value = resolve(lang.code, key);
