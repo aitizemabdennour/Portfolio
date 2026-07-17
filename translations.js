@@ -314,7 +314,7 @@ export const translations = {
     github: {
       tag: "06 — GitHub",
       title: "Activité GitHub",
-      bio: "Étudiant en Ingénierie IA & Logicielle. Développe avec Python, Kotlin et l'IA.",
+      bio: "Étudiant en Master 2 Systèmes Informatiques. Conception d'agents intelligents et optimisation des performances système avec Python, Kotlin et l'IA.",
       repos: "Dépôts",
       commits: "Commits",
       stars: "Étoiles",
@@ -486,7 +486,7 @@ export const translations = {
     github: {
       tag: "06 — غيت هاب",
       title: "نشاط غيت هاب",
-      bio: "طالب هندسة ذكاء اصطناعي وبرمجيات. أبني باستخدام بايثون وكوتلن والذكاء الاصطناعي.",
+      bio: "طالب في السنة الثانية ماستر تخصص أنظمة معلوماتية. مختص في تصميم الوكلاء الأذكياء وتحسين أداء الأنظمة باستخدام لغات Python و Kotlin والذكاء الاصطناعي.",
       repos: "المستودعات",
       commits: "الالتزامات",
       stars: "النجوم",
