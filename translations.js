@@ -111,6 +111,7 @@ export const translations = {
       p3Desc: "A mapping platform to locate Iftar tables during the month of Ramadan.",
       github: "GitHub",
       liveDemo: "Live Demo",
+      download:"Donwload App",
     },
     timeline: {
       tag: "04 — Timeline",
@@ -286,6 +287,7 @@ export const translations = {
       p3Desc: "Plateforme de géolocalisation des tables de l'Iftar durant le mois de Ramadan.",
       github: "GitHub",
       liveDemo: "Démo en Direct",
+      download:"Télécharger l'App",
     },
     timeline: {
       tag: "04 — Parcours",
@@ -462,6 +464,7 @@ export const translations = {
       p3Desc: "منصة لتحديد مواقع موائد الإفطار خلال شهر رمضان المبارك.",
       github: "غيت هاب",
       liveDemo: "عرض مباشر",
+      download:"تحميل التطبيق",
     },
     timeline: {
       tag: "04 — المسار",
