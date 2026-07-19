@@ -111,7 +111,7 @@ export const translations = {
       p3Desc: "A mapping platform to locate Iftar tables during the month of Ramadan.",
       github: "GitHub",
       liveDemo: "Live Demo",
-      download:"Donwload App",
+      download:"Download App",
     },
     timeline: {
       tag: "04 — Timeline",
