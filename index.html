@@ -367,16 +367,7 @@
             <p class="cert__issuer" data-i18n="certificates.c2Issuer">C1 Level</p>
             <span class="cert__year">10-2025</span>
             <div style="margin-top: 15px;">
-              <a href="./TCF_AIT_IZEM_Abdennour.pdf" target="_blank" class="btn btn--small btn--ghost" onclick="compterClic()" data-i18n="certificates.viewCert">View Certificate</a>
-              <script>
-              async function compterClic() {
-                try {
-                  await _supabase.rpc('increment_click', { row_name: 'certificate_view' });
-                } catch (err) {
-                  console.error("Erreur lors de l'incrémentation :", err);
-                }
-              }
-              </script>
+              <a href="./TCF_AIT_IZEM_Abdennour.pdf" target="_blank" class="btn btn--small btn--ghost" data-i18n="certificates.viewCert">View Certificate</a>
             </div>
           </div>
           <div class="cert reveal">
